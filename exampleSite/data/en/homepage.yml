@@ -41,15 +41,23 @@ features:
 promo:
   enable: true
   image: images/watch.png
-  title: Designed by professional , the benefit for creative gigs
-  content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quia vel labore,
-    deleniti minima nisi, velit atque quaerat impedit ea maxime sunt accusamus at
-    obcaecati dolor iure iusto omnis quis eum. <br><br> Lorem ipsum dolor sit amet,
-    consectetur adipisicing elit. Facilis commodi odit, illo, qui aliquam dol
+  title: Studio, the application generator
+  content: mviewer studio makes it easy to deploy applications for non-specialists.
+    No more need to know the development languages, create, configure and customize
+    your mapping application easily.
 about_product:
   enable: true
-  title: Why Choose Apple Watch
+  title: Why mviewer ?
   items:
+  - image: mviewer-4.png
+    title: Simple, fast, modular, ergonomic
+    content: 'Extend the target audience of your users: you can enrich your applications
+      with geographic data, graphics and editorial content to distribute them on your
+      institutional sites and on all media.'
+    button:
+      enable: true
+      link: http://kartenn.region-bretagne.fr/kartoviz/demo/
+      label: Examples
   - image: images/showcase/showcase-4.png
     title: Lorem ipsum dolor sit amet.
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate,
