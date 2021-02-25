@@ -31,10 +31,9 @@ features:
   - title: Interoperable through standards and APIs
     icon: tf-ion-ios-alarm-outline
     content: OGC - Geoserver - DataBase - GeoNetwork
-  - title: Elegant Design
-    icon: tf-ion-ios-bell-outline
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem,
-      inventore?
+  - title: Built on open source technologies
+    icon: tf-ion-ios-unlocked
+    content: Libraries Javascript (OpenLayers 5, Chart.js - Proj4) Bootstrap Framework
   - title: Easy Pricing
     icon: tf-ion-ios-cart-outline
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem,
