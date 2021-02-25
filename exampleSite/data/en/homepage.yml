@@ -13,26 +13,24 @@ banner:
     link: features
 features:
   enable: true
-  title: Our Core Features
+  title: A map viewer for all users
   image: images/watch-2.png
   left_side:
-  - title: Smooth Touch
-    icon: tf-ion-ios-alarm-outline
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem,
-      inventore?
-  - title: Elegant Design
-    icon: tf-ion-ios-bell-outline
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem,
-      inventore?
-  - title: Easy Pricing
-    icon: tf-ion-ios-cart-outline
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem,
-      inventore?
+  - title: Several viewing modes
+    icon: tf-ion-stats-bars
+    content: Cartography - Key figures - Datavisualization - Editorial content (Photographs,
+      texts, videos, etc)
+  - title: Easy to use and intuitive interface
+    icon: tf-ion-ios-people
+    content: Give a maximum of autonomy to your specialist or general public users
+  - title: Consuming data
+    icon: tf-ion-social-buffer
+    content: Spatial Data Infrastructures (SDI) - National data providers - Open Data
+      platforms
   right_side:
-  - title: Smooth Touch
+  - title: Interoperable through standards and APIs
     icon: tf-ion-ios-alarm-outline
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem,
-      inventore?
+    content: OGC - Geoserver - DataBase - GeoNetwork
   - title: Elegant Design
     icon: tf-ion-ios-bell-outline
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem,
