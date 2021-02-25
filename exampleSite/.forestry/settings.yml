@@ -45,8 +45,6 @@ sections:
   match: "**/*"
   templates:
   - product
-- type: heading
-  label: Contact
 - type: document
   path: exampleSite/content/english/contact/_index.md
   label: Contact (en)
