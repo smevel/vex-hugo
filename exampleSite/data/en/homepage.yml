@@ -49,7 +49,7 @@ about_product:
   enable: true
   title: Why mviewer ?
   items:
-  - image: mviewer-4.png
+  - image: images/mviewer-4.png
     title: Simple, fast, modular, ergonomic
     content: 'Extend the target audience of your users: you can enrich your applications
       with geographic data, graphics and editorial content to distribute them on your
